@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Isak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsakLarsson&show_icons=true&theme=tokyonight)](https://github.com/IsakLarsson/github-readme-stats)
+[![Isak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsakLarsson&show_icons=true&theme=tokyonight)]
 
