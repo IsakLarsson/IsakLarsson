@@ -13,6 +13,6 @@
 
 [![Isak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsakLarsson&show_icons=true&theme=tokyonight)](https://github.com/IsakLarsson/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakLarsson)](https://github.com/IsakLarsson/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakLarsson&hide=java&theme=tokyonight)](https://github.com/IsakLarsson/)
 
 
