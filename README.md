@@ -18,7 +18,7 @@ JS/TS/React/Next etc as always but lately I've been looking more into other stuf
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+## Stats
 [![Isak's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsakLarsson&show_icons=true&theme=tokyonight)](https://github.com/IsakLarsson/)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsakLarsson&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/IsakLarsson/)
