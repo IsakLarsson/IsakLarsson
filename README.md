@@ -1,7 +1,5 @@
 # Hi there 👋
 
-## 🔭 I’m currently looking for new opportunities
-
 ## 🌱 I’m currently learning
 JS/TS/React/Next etc as always but lately I've been looking more into other stuff as well like Rust & Go
 
