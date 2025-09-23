@@ -17,6 +17,7 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)](https://go.dev/)
+[![Gleam](https://img.shields.io/badge/-Gleam-FF69B4?logo=gleam&logoColor=fff)](https://gleam.run/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)](https://www.kernel.org/)
 [![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
 
