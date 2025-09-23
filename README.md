@@ -5,7 +5,7 @@
 - 💻 **Software engineer** currently working mostly with <b>![Elm](https://img.shields.io/badge/-Elm-60B5CC?logo=elm&logoColor=fff)</b>
 - 🛠️ Previously worked extensively with <b>React</b> & <b>TypeScript</b>
 - 🧩 Fan of functional programming
-- 🌱 Always learning – especially keen on <b>Elm</b>, <b>Rust</b>, and diving deeper into <b>Go</b>
+- 🌱 Always learning – especially keen on <b>Elm</b>, <b>Gleam</b>, and diving deeper into other technologies
 - 🖥️ Enjoy homelabbing, Linux, and anything that makes my workflow smoother
 - ⌨️ Split keyboard enjoyer and tinkerer
 - 🎸 Outside of tech: passionate about guitar, music, photography, and video editing
@@ -16,8 +16,8 @@
 [![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61dafb)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/-Rust-000?logo=rust&logoColor=fff)](https://www.rust-lang.org/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)](https://go.dev/)
 [![Gleam](https://img.shields.io/badge/-Gleam-FF69B4?logo=gleam&logoColor=fff)](https://gleam.run/)
+[![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=fff)](https://go.dev/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)](https://www.kernel.org/)
 [![Neovim](https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=fff)](https://neovim.io/)
 
