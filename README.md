@@ -26,3 +26,4 @@
 - [dotfiles](https://github.com/IsakLarsson/dotfiles) – My developer environment & Linux config
 - [nvim-2025](https://github.com/IsakLarsson/nvim-2025) – Neovim setup for 2025
 - [temper-zmk-config](https://github.com/IsakLarsson/temper-zmk-config) – Custom ZMK keyboard config
+- [elm-decode-dojo](https://github.com/IsakLarsson/elm-decode-dojo/tree/main) – Improve your Elm decoding knowledge
